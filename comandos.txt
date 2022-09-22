@@ -1,7 +1,14 @@
-echo "# GitComandos" >> README.md
+
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/antonio2911/GitComandos.git
 git push -u origin main
+
+git config --list (lista configuraçoes)
+git config user.name ""
+git config user.email ""
+
+git log (ver todos os commits)
+ 
