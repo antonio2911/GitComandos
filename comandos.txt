@@ -11,4 +11,7 @@ git config user.name ""
 git config user.email ""
 
 git log (ver todos os commits)
+
+git log --oneline (ver commits de forma resumida)
  
+git reset (tira do stage) 
